@@ -1,0 +1,10 @@
+bitsandbytes
+accelerate
+transformers
+torch
+einops
+xformers
+evaluate
+pandas
+numpy
+python-dotenv
