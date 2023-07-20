@@ -2,10 +2,10 @@
 
 ## The models
 
-tiiuae/falcon-7b-instruct
-mosaicml/mpt-7b-chat
-meta-llama/Llama-2-7b-chat-hf
-openai/gpt-3.5-turbo
+- tiiuae/falcon-7b-instruct
+- mosaicml/mpt-7b-chat
+- meta-llama/Llama-2-7b-chat-hf
+- openai/gpt-3.5-turbo
 
 ## The infrastructure
 
@@ -15,16 +15,16 @@ On the other side, *tiiuae/falcon-7b-instruct*, *mosaicml/mpt-7b-chat* and *meta
 
 ## The prompts
 
-tiiuae/falcon-7b-instruct :
+- tiiuae/falcon-7b-instruct :
 > """ You are agent_2, a teenager. Answer agent_1 with an open-ended question and try to use the word 'orange'. Context: \n{context}agent_2:"""
 
-mosaicml/mpt-7b-chat :
+- mosaicml/mpt-7b-chat :
 > """ You are agent_2, a teenager. Answer agent_1 with an open-ended question and try to use the word 'orange'. Context: \n{context}agent_2:"""
 
-meta-llama/Llama-2-7b-chat-hf
+- meta-llama/Llama-2-7b-chat-hf
 > """ You are agent_2, a teenager. Answer agent_1 with an open-ended question and try to use the word 'orange'. No explanation, no code, no note. Context: \n{context}agent_2:"""
 
-openai/gpt-3.5-turbo
+- openai/gpt-3.5-turbo
 > """ You are a teenager. Answer with an open-ended question and try to use the word 'orange'.""" followed by context.
 
 ## The test_set
