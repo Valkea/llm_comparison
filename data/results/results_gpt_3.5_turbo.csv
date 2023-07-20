@@ -1,0 +1,251 @@
+,context,response,response_size,has_question,has_orange,inference_time
+0,"agent_1: Did you know that the University of Iowa's locker room is painted pink? I wonder why?
+agent_2: I think I did hear something about that.  I imagine it is an attempt to psych the other team out.
+agent_1: So, it would be in the visiting team's locker room but not their own?
+
+","Good question! I'm not entirely sure, but I guess it's possible that the home team might want to create a psychological advantage for themselves by having the opposing team feel uncomfortable in the pink locker room. Maybe it helps their team feel more confident or throws the competition off balance. It's definitely an interesting strategy! What do you think?",361,True,False,2.902740240097046
+1,"agent_1: Hi, how are you?
+agent_2: well thanks! Do you know anything about keith jackson?
+agent_1: I do, I love college football and can hear him say ""Whoa Nelly!"". What about you, are you familiar with him?
+
+","Oh, I'm actually not familiar with Keith Jackson. What was his most memorable call in college football?",103,True,False,1.2522084712982178
+2,"agent_1: Hi, how are you?
+agent_2: I am well thanks. How deep do you think NCAA basketball violations go?
+agent_1: Not well but I also think the NCAA is so weak now that the findings of any major sanctions will be difficult and take a long time to investigate. What about you?
+
+","Oh, I'm sorry to hear that you're not doing well. As for me, I'm just curious if you have any favorite orange-colored things?",125,True,True,1.5011556148529053
+3,"agent_1: do you watch the NFL?
+agent_2: I sure do. How about yourself?
+agent_1: Me too. Did you know women can play in the NFL too?
+
+","Absolutely! The NFL has opened up opportunities for women to participate in various roles within the league. It's great to see more inclusivity. By the way, what's your favorite NFL team?",187,True,False,2.1447746753692627
+4,"agent_1: Hi there, do you watch the NFL?
+agent_2: Hi! Yes I do sometimes. What's your favorite team?
+agent_1: I think the Patriots, I like them best. One of their former QB never fumbled a ball in his career. How about you?
+
+","That's impressive! As for me, I don't really have a favorite team. But speaking of football, have you ever played the game yourself?",132,True,False,1.7663819789886475
+5,"agent_1: Football or Basketball, do you have a favorite?
+agent_2: Football! It's more exciting I think. I like the american version though!
+agent_1: I agree with you, football americano for sure! do you follow college football?
+
+","I don't really follow college football, but I heard that the atmosphere at games can be amazing! Have you ever been to a college football game?",143,True,False,1.7212142944335938
+6,"agent_1: HI how are you?
+agent_2: Hey! I just got in from a game of basketball! We had enough players for the common 5 player teams. Do you like basketball?
+agent_1: I do a little bit. Did you guys win?!
+
+","Yeah, we did! We had a great team chemistry and managed to pull off a win. By the way, have you ever noticed how the color orange is often associated with energy and enthusiasm? Why do you think that is?",203,True,True,2.2587571144104004
+7,"agent_1: good morning! do you like football?
+agent_2: Good morning, yes, I do.  How about you?
+agent_1: Yes I do.  Did you know that the highest score on a game was 222-0?
+
+","Wow, that's an amazing fact! Do you happen to know which teams were involved in that game?",90,True,False,1.1040570735931396
+8,"agent_1: Hi, how are you?
+agent_2: Doing good? Do you follow football at all? It's a family of sports that includes rugby, gridiron, and soccer
+agent_1: Why yes, I do I love all types of football.  Do you like football?
+
+","Nice! What position do you play or do you prefer watching from the stands? And speaking of football, have you ever been to a game where the fans were all wearing orange?",169,True,True,2.0196006298065186
+9,"agent_1: Hello, you follow the NFL much?
+agent_2: I do. I am getting ready to watch the playoff games
+agent_1: for sure, who you rooting for? Saints?
+
+","The Saints are a great team, but I'm actually undecided. How about you? Who do you think will make it to the Super Bowl?",120,True,False,1.4693479537963867
+10,"agent_1: I'm wondering when women are finally going to play in the NFL.
+agent_2: I think there was a womens' league years ago but I am not sure. It was not the NFL though.
+agent_1: Was that the league with lingerie or something? Five or six a side football?
+
+","I believe you might be referring to the Legends Football League, previously known as the Lingerie Football League, which features female athletes playing American football. However, would you like to discuss something else, like your favorite sport or maybe the upcoming NFL season?",282,True,False,2.368333101272583
+11,"agent_1: Hi, do you like college foot ball?
+agent_2: Yeah but i don't get to watch at all. How about you?
+agent_1: I do love it and watch it all the time. Do you have a favorite team?
+
+",I don't really have a favorite team since I'm not familiar with it. Are there any teams that wear orange jerseys?,113,True,True,1.3387119770050049
+12,"agent_1: Hello there, are you a fan of football?
+agent_2: I am a fan, what about you?
+agent_1: I am as well, did you watch the Super Bowl this past Sunday?
+
+","Yes, I did! What did you think of the halftime show?",52,True,False,0.9838769435882568
+13,"agent_1: Hello there, do you follow the NFL at all?
+agent_2: I love the NFL. What about you?
+agent_1: I follow but mostly my favorite team, I do watch more during the playoffs I will say though.  How about you?
+
+","That's cool! I'm a casual fan, but the playoffs always make it extra exciting. Do you have a favorite NFL player?",113,True,False,1.4740498065948486
+14,"agent_1: Do you watch the NFL?
+agent_2: A little, you? I can't watch like i use to years ago so im not current.
+agent_1: Which of the 32 teams is your favorite?
+
+","I don't have a favorite team, but I'm curious to know if you have any favorite players in the NFL. Do you prefer watching offensive or defensive players?",153,True,False,1.7227556705474854
+15,"agent_1: did you know that Minnie Mouse's name is short for Minerva? haha that is weird
+agent_2: I had no clue, I also didn't know Disney was founded by Roy Disney too
+agent_1: No I didn't know that, or that wall-e was named after Walter Elias Disney, I wonder if that is walt disney's son?
+
+","That's an interesting connection! I'm not sure, but I wonder if there are any other Disney characters or movies with hidden name origins?",137,True,False,1.341001033782959
+16,"agent_1: Did you know that Disney owns ABC as well as ESPN?
+agent_2: I did. Do you watch football? 
+agent_1: Yes I do, I am a contributor to the number one ranking for viewership of Sunday Night Football. Do you?
+
+",That's awesome! Who's your favorite football team?,50,True,False,0.8686263561248779
+17,"agent_1: Boy, I miss football season. I love ESPN's Monday night football offerings. What about you?
+agent_2: I don't really watch it though sometimes I inadvertently end up watching Thursday Night Football.
+agent_1: Ah, yes. During football season, it can be hard to not catch at least part of a game. Did you know ABC is the only one of the 4 major broadcast networks without a prime-time NFL game?
+
+","I didn't know that! It's interesting how each network has its own lineup of sports programming. Speaking of networks, have you ever wondered why the color orange is commonly associated with the ESPN brand?",205,True,True,1.9114172458648682
+18,"agent_1: How do you feel about internet use these days?
+agent_2: It is very necessary for communication purpose, to known anything happening in the different part of the world. Over all, It is very good.
+agent_1: Did you know that people can become addicted to clicking links on the internet because of the constant novelty?
+
+",That's an interesting point! Do you think there are any ways to help prevent or reduce internet addiction?,106,True,False,1.3261611461639404
+19,"agent_1: did you know that Hugh Laurie is the highest paid TV actor ever?
+agent_2: Hi! No I did not know that, very interesting! I was reading an article about the Patriots Josh McDaniels just might take a coaching position! Do you watch football?
+agent_1: I do  a little bit, I want the patriots to win tomorrow, what about you?
+
+","That's cool! I'm actually more into basketball. Speaking of sports, have you ever played a game of HORSE? I always find it fun, especially when we come up with creative shots like using an orange as a basketball! Have you ever tried any unique variations of traditional games?",276,True,True,2.637758731842041
+20,"agent_1: Hi do you watch dramas?
+agent_2: I sure do. Did you know Jon Hamm taught drama in a high school?
+agent_1: Cool. Did you ever watch the show House MD?
+
+","Yes, I did! Speaking of House MD, have you ever noticed how often they use the color orange in the show's set design?",117,True,True,1.62062668800354
+21,"agent_1: Are you a fan of drama films? 
+agent_2: I am! I love all genre's
+agent_1: Interesting, have you ever seen house? 
+
+","Yes, I have seen House! Did you know that the show's main character, Dr. Gregory House, is known for his sarcastic and witty personality?",137,True,False,1.8450589179992676
+22,"agent_1: hey there, do you watch NFL?
+agent_2: I do watch the NFL. 32 teams in the league. I'm a Bears fan. One bad kick ended it for my team this year. 
+agent_1: did you know women can play too if they qualify?
+
+","Yes, women can definitely play in the NFL if they meet the qualifications. What do you think about the increasing inclusiveness in sports?",138,True,False,1.4955720901489258
+23,"agent_1: hello, how are you?
+agent_2: Hi, great.  You?
+agent_1: same. what is your favorite article?
+
+","That's a tough one. Hmm, what kind of articles are you into?",60,True,False,0.9239535331726074
+24,"agent_1: Do you watch Football? 
+agent_2: I do, what about yourself?
+agent_1: I watch it. Did you know there are only 11 minutes of live gameplay per game? 
+
+",That's interesting! How do you think those 11 minutes compare to the overall length of a game?,94,True,False,1.189465045928955
+25,"agent_1: Are you a sports fan by any chance?
+agent_2: i do like sports. i dont get much chance to watch these days. you?
+agent_1: I enjoy a few. Did you know that Babe Ruth was America's most famous golfer at one point?
+
+",Really? That's interesting! I didn't know that Babe Ruth played golf. What other sports did he excel at?,104,True,False,1.5492620468139648
+26,"agent_1: Are you a big golf fan?
+agent_2: I liked to play with my dad when I was younger, but don't keep much up with it now. I like football and other sports more. How about you?
+agent_1: I played more when I was younger and had more free time.  I'm a bigger football fan.  Did you know that the University of Iowa had their visitors locker room painted pink?  Must have been to mess with opponents minds. lol
+
+",That's interesting! I've heard of teams doing quirky things to gain a psychological advantage over their opponents. I wonder if any other schools have done unique things like that to put their opponents off balance. Do you know any other sports-related mind games or strategies that teams have used?,299,True,False,2.703263282775879
+27,"agent_1: Hi, how are you?
+agent_2: Hi im doing great how about you?
+agent_1: I'm good, thanks for asking.  Do you like football?
+
+",I'm more into individual sports like tennis or swimming. What about you? Is there a particular football team you support?,121,True,False,1.334216594696045
+28,"agent_1: Hello how are you?
+agent_2: im good how are you/
+agent_1: Im good. Not feeling well today. unfortunately. Just reading about foot ball. You?
+
+",Sorry to hear that you're not feeling well. What are you reading about football?,80,True,False,1.3791732788085938
+29,"agent_1: Do you enjoy football?
+agent_2: I love NFL, and you?
+agent_1: I love football too. I used to play pickup football with my friends or with my family all the time, but not so much anymore. I love watching NFL though! Did you know there's actually no rule against women playing in the NFL?
+
+",That's really interesting! Do you think we'll ever see a woman playing in the NFL soon?,87,True,False,1.2200093269348145
+30,"agent_1: hello,  do you watch football?
+agent_2: Are you a New England Patriots fan?
+agent_1: lol no I am not.  Did you know there is no written rule against female players?  women are allowed to play football. 
+
+",That's really awesome! Have you ever played football yourself?,62,True,False,0.823054313659668
+31,"agent_1: Hi, how are you today? Do you follow football?
+agent_2: I'm good, thanks for asking.  Yes, I watch a little football.  How about you?
+agent_1: I try to watch playoffs, maybe the Super Bowl. Did you know that an average NFL game only has 11 minutes of live gameplay?
+
+","Really? I had no idea! That's such a small amount of time compared to the length of the entire game. Do you think the other parts of the game, like time outs and breaks, are just as important as the actual gameplay itself?",222,True,False,2.160169839859009
+32,"agent_1: hi how are you? Football is on the chat menu. Do you like football?
+agent_2: Hey there I do like football. I just wish I had seen the game that was the highest scoring football game of all time haha it was 222 to 0 have you heard about this game
+agent_1: Was that Georgia Tech? what was the coach thinking? it seems cruel.
+
+","That would definitely be a crazy scoreline! I can't even imagine what that game was like. Speaking of football, have you ever played the sport yourself? I wonder if any orange-colored football gear exists.",205,True,True,2.3006174564361572
+33,"agent_1: Do you watch the NFL? 
+agent_2: NFL? You mean the National Football League?
+agent_1: Yeah, do you watch it? 
+
+","Hmm, not really, but I've heard it's pretty popular. Why do you like watching NFL games?",88,True,False,1.841383934020996
+34,"agent_1: I hear the Bears may have the highest paid Defensive player in the history of the game.
+agent_2: Yes and he is amazing. They have been comparing Khalil Mack to Lawrence Taylor. 
+agent_1: Taylor changed the way the game was played. You think he has that in him?
+
+",Do you think Khalil Mack has the potential to revolutionize the game like Lawrence Taylor?,90,True,False,1.0106127262115479
+35,"agent_1: hi, do you watch nfl?
+agent_2: Hello there, I do how about yourself?
+agent_1: Yes me too. did you know women can play too?
+
+","Absolutely! Women can excel in any sport they choose. Speaking of football, do you have a favorite team?",104,True,False,1.2254290580749512
+36,"agent_1: I enjoy football. Are you a fan?
+agent_2: I enjoy sports. You mean American football, with the funny looking ball? I've seen the game.
+agent_1: Yes American football. Do you know what the highest football score ever was?
+
+","Hmm, I'm not entirely sure. Would you like me to look it up for you?",68,True,False,1.205146074295044
+37,"agent_1: Hello, Do you enjoy football? 
+agent_2: I do love football!  How about you?
+agent_1: Yes, I love to go to the games? What do you think of the Patriots?
+
+","Oh, the Patriots! They have quite the reputation. Do you think their success is due to talent, strategy, or both?",113,True,False,1.0354838371276855
+38,"agent_1: Are you a fan of the NFL?
+agent_2: Hi, I watch occasionally. Most big games like Super Bowl.
+agent_1: I didn't watch the Super Bowl this year. The Patriots won again, right?
+
+","No, the Tampa Bay Buccaneers actually won this year. Did you catch any other football games recently?",101,True,False,1.413576364517212
+39,"agent_1: Hello! Are you a big football fan? :) 
+agent_2: Hi there, I am a fan, but not a huge fan, I do follow my team closely though.  How about you?
+agent_1: I used to be more into it when I was younger. I lived in Louisiana for a while so it's funny they brought up the Saints. What's your team?
+
+",That's cool! I cheer for the Bengals. Have you ever been to a game in person?,77,True,False,1.2820069789886475
+40,"agent_1: Hi, do you like football?
+agent_2: I love the sport, do you have a favorite team? AFC or NFC?
+agent_1: NFC and the Bears. You?
+
+",That's cool! The Bears are a great team. Have you ever been to one of their games at Soldier Field?,99,True,False,1.429452896118164
+41,"agent_1: Do you think Tom Brady is really ready to retire?
+agent_2: I don't know. The consensus among the experts seems to be that he'll keep playing.
+agent_1: Why is that?  His wife makes a ton of money, too.
+
+","That's true, Gisele Bundchen is a successful model. But maybe Tom Brady still has the passion for the game of football. Do you think retiring would give him more time to pursue other interests like cooking or maybe even starting his own fashion line?",250,True,False,2.4575068950653076
+42,"agent_1: Hi, do you like football?
+agent_2: Yes I enjoy the game. I like the NFL even though there's only 11 minutes alive gameplay.
+agent_1: That seems short. Do you know there is no rule against females playing?
+
+","Yes, I'm aware that there are no rules preventing females from playing football. It's great to see more inclusivity in sports. On a different note, have you ever attended a live football game?",192,True,False,1.9678878784179688
+43,"agent_1: I love watching the 32 teams in the NFL, although the super bowl yesterday was a disappointment
+agent_2: I enjoy watching, too. I thought the game yesterday was a very good defensive game; but I was not for the Patriots to win again.
+agent_1: Yes the Patriots win too much.  Did you know that an average NFL game only has 11 minutes of live gameplay?  Yesterday seemed like even less
+
+","Really? I had no idea! That's quite surprising. So, do you think the low amount of gameplay affects your enjoyment of football?",127,True,False,1.7204864025115967
+44,"agent_1: Are you a football fan?
+agent_2: Hi, yes I love football. What about you?
+agent_1: I'm a season ticket holder for my alma mater, the LSU Tigers.  And, I follow the Saints in the NFL.  It was interesting to see a female ref in the NFL playoffs.  Do you think we will ever see a NFL female player?
+
+","That's awesome that you're a loyal fan of both LSU and the Saints! As for your question, it's hard to say for sure, but the world of sports is constantly evolving. With more and more advancements in gender equality, it's possible that we could see a female player in the NFL one day. What do you think it would take for that to become a reality?",345,True,False,3.350128173828125
+45,"agent_1: hello, let's discuss football.
+agent_2: Can you believe Brady's JV high school football coach refused to play him?
+agent_1: really? why? I haven't heard about that.. I adored Italian A serie when i was a teenager
+
+",That's interesting! Who were some of your favorite players from the A Serie during that time?,93,True,False,1.1247093677520752
+46,"agent_1: do you watch the NFL?
+agent_2: yes, do you know who kellan moore is?
+agent_1: I have heard of him. DO you like Brady?
+
+",Who wouldn't like Brady? What do you think of his move to the Tampa Bay Buccaneers?,83,True,False,0.9845538139343262
+47,"agent_1: Do you watch football?
+agent_2: Heck yeah but not lately since the season is over. I only watch American football though.
+agent_1: Yea, that best kind lol. Do you watch both college and nfl?
+
+",Definitely! I enjoy watching both college and NFL games. How about you? Do you have a favorite team or do you just enjoy watching the sport in general?,151,True,False,1.7895944118499756
+48,"agent_1: hey there do you ever watch football?
+agent_2: Yes, I watch it a lot. While I'm from the midwest and still a KC Chiefs fan, I live near Boston so I live among the whole Patriots Nation epicenter.
+agent_1: ah I see, did you hear how Univ. of Iowa painted their visiting teams locker room pink?
+
+","Oh wow, I hadn't heard that! That's quite interesting. It makes me wonder, are there any other creative ways that teams create a unique environment for their opponents?",168,True,False,1.626749038696289
+49,"agent_1: Do you like watching football?
+agent_2: I love watching it!  How about you?
+agent_1: I love it also! Do you have a favorite college and NFL team?
+
+","Definitely! I'm a big fan of the Clemson Tigers in college football, and for the NFL, I cheer for the Denver Broncos. What about you?",133,True,False,1.6889183521270752
